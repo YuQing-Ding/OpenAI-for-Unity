@@ -11,5 +11,5 @@ Like this.
 ## What has been added in this Beta version?
 Based on multi-language detection, currently supports Chinese, English, Japanese and Korean.
 
-##Known issues
+## Known issues
 Sometimes Chinese and Japanese are incorrectly recognized.
