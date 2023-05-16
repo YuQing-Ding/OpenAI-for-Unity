@@ -1,5 +1,5 @@
 # OpenAI for Unity With Google TTS (Beta Channel)
-![Unity_Love_OpenAI](https://github.com/YuQing-Ding/OpenAI-for-Unity/assets/69519674/13376bbc-72da-497f-9446-8bdb09acb9b1)
+![Unity Love OpenAI](https://github.com/YuQing-Ding/OpenAI-for-Unity/assets/69519674/d60b14bb-b789-4cba-b14f-5438c6ab3893)
 ## What's this?
 An OpenAI API framework for Unity engine but I added Google TTS in this branch.
 
