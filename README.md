@@ -9,7 +9,9 @@ Like this.
 ![image](https://github.com/YuQing-Ding/OpenAI-for-Unity/assets/69519674/d8dd5b7d-1ca5-4d3a-9b66-b1f528c69a2b)
 
 ## What has been added in this Beta version?
-Based on multi-language detection, currently supports Chinese, English, Japanese and Korean.
+Based on multi-language detection, currently supports Chinese, English, Japanese and Korean.  
+Added Caress NoiseReducer
 
 ## Known issues
 Sometimes Chinese and Japanese are incorrectly recognized.
+
